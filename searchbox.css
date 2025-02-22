@@ -1,0 +1,26 @@
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.image-container img {
+    width: 100%;
+}
+
+.search-box {
+    position: absolute;
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust for element's size */
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px; /* Adjust the width as needed */
+}
+
+.zomato-heading {
+    color: white; /* Change text color to white */
+    text-align: center; /* Center align text */
+    margin-bottom: 10px; /* Add some space below the heading */
+}

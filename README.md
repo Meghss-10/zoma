@@ -1,5 +1,5 @@
 
-Zomato is a restaurant discovery app built using React, designed to showcase restaurants based on your location. This project leverages Swiggy's live API, enabling a seamless user experience with a config-driven UI **Site link** **file:///C:/Users/mmmeg/OneDrive/Desktop/zoma/main.html?#/**.
+Zomato is a restaurant discovery app built using React, designed to showcase restaurants based on your location. This project leverages Swiggy's live API, enabling a seamless user experience with a config-driven UI **Site link** **file:///C:/Users/mmmeg/OneDrive/Desktop/zoma/main.html?#**.
 
 ## Key Features
 
